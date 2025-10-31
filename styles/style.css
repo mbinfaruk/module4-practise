@@ -12,6 +12,7 @@ header h1{
 table{
     /* border:4px double black; */
     border-collapse: collapse;
+    width: 50%;
 }
 .table-header{
     font-weight: bolder;
