@@ -9,3 +9,14 @@ header h1{
     margin: 10px;
     object-fit: cover;
 }
+table{
+    /* border:4px double black; */
+    border-collapse: collapse;
+}
+.table-header{
+    font-weight: bolder;
+    /* font-size: xx-large; */
+}
+td, th{
+    border: 2px double black;
+    padding: 5px 10px;
